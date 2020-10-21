@@ -21,13 +21,14 @@
 运行结果
 ----
 
-![1.收支明细](https://img-blog.csdnimg.cn/20201018205231909.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzk1MTc3OA==,size_16,color_FFFFFF,t_70#pic_center)  
+![image-20201021145157887](Readme.assets/image-20201021145157887.png)  
+
+![image-20201021145211665](Readme.assets/image-20201021145211665.png)
+
+  
 
 
-![2.登记收入](https://img-blog.csdnimg.cn/20201018205231904.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzk1MTc3OA==,size_16,color_FFFFFF,t_70#pic_center)  
+![image-20201021145222555](Readme.assets/image-20201021145222555.png)  
 
 
-![3.登记支出](https://img-blog.csdnimg.cn/20201018205231870.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzk1MTc3OA==,size_16,color_FFFFFF,t_70#pic_center)  
-
-
-![4退出](https://img-blog.csdnimg.cn/20201018205231866.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzk1MTc3OA==,size_16,color_FFFFFF,t_70#pic_center)
+![image-20201021145231098](Readme.assets/image-20201021145231098.png)
